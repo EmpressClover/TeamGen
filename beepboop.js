@@ -296,8 +296,5 @@ $(document).ready(function() {
 
     });
 
-    if (randomNum1 == randomNum2) {
-        return getRandomImage();
-    }
   
   });
