@@ -283,7 +283,12 @@ $(document).ready(function() {
       "https://i.imgur.com/1HK2MZN.png",
       "https://i.imgur.com/UD7NEPU.png",
       "https://i.imgur.com/XksAsSR.png",
-      "https://cdn.discordapp.com/attachments/673748029052026882/864149977487900672/CrRgooQ.png"
+      "https://cdn.discordapp.com/attachments/673748029052026882/864149977487900672/CrRgooQ.png",
+      "https://i.imgur.com/4T0Ojis.png",
+      "https://i.imgur.com/zbpRwax.png",
+      "https://i.imgur.com/NGkx7uX.png",
+      "https://i.imgur.com/Yb6g7HK.png",
+      "https://i.imgur.com/RcMumIq.png"
     ];
   
     var size = description.length
